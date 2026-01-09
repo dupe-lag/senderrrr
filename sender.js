@@ -1,6 +1,6 @@
 // ============ CONFIGURATION ============
 // YOUR BACKEND URL - CHANGE NOTHING ELSE!
-const BOT_BACKEND_URL = 'https://telegram-bot-protector.andrei2011el.workers.dev/';
+const BOT_BACKEND_URL = 'https://blox-drop-bot.andrei2011el.workers.dev/';
 const SECRET_TOKEN = 'LOTBLOX_PROTECTED_EXTENSION7X9A2P5R8S3V6Y1Z4';
 const WEBHOOK_PATH = 'webhook';
 
